@@ -3,6 +3,8 @@
 # Projeto
   Projeto feito por mim, para ajudar freelancers há calcular sua hora de serviço de um jeito mais pratico é rapido.
   
+  <img src="gif/Captura de tela de 2022-06-20 09-49-40.png">
+  
 # Tecnologias Usadas
 
 </div>
